@@ -15,7 +15,6 @@ O principal objetivo deste projeto é **dominar conceitos fundamentais de Java**
 > ⚠️ Observação: Poderia ter sido implementada usando **POO** (programação orientada a objetos), criando uma classe `Calculadora` com métodos para cada operação.  
 > Esta melhoria **não foi aplicada** intencionalmente, pois o foco era reforçar o aprendizado dos conceitos básicos do Java antes de avançar para POO.
 
----
 
 ## ✨ Funcionalidades
 - Menu interativo que se repete até o usuário decidir sair.  
@@ -23,13 +22,11 @@ O principal objetivo deste projeto é **dominar conceitos fundamentais de Java**
 - Validação de **divisão por zero** para evitar erros.  
 - Resultados exibidos com **duas casas decimais** para melhor legibilidade.  
 
----
 
 ## 🛠 Tecnologias
 - Java (JDK 8 ou superior)  
 - Console/Terminal para interação com o usuário  
 
----
 
 ## 🚀 Como rodar
 1. Clone o repositório:  
