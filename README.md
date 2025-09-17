@@ -30,10 +30,10 @@ O principal objetivo deste projeto é **dominar conceitos fundamentais de Java**
 
 ## 🚀 Como rodar
 1. Clone o repositório:  
-  bash
-  git clone <URL_DO_REPOSITORIO>
+  `bash
+  git clone <URL_DO_REPOSITORIO> `
 2. Compile o código
-   javac main.java
+`javac main.java`
 3. Execute o código
-   java main
+   `java main`
 
